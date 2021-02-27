@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite.csprojAssemblyReference.cache
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\Window1.g.cs
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\App.g.cs
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite_MarkupCompile.cache
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite_MarkupCompile.lref
+C:\Users\user\source\repos\snake bite\snake bite\bin\Debug\snake bite.exe.config
+C:\Users\user\source\repos\snake bite\snake bite\bin\Debug\snake bite.exe
+C:\Users\user\source\repos\snake bite\snake bite\bin\Debug\snake bite.pdb
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\Window1.baml
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite.g.resources
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake_bite.Properties.Resources.resources
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite.csproj.GenerateResource.cache
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite.exe
+C:\Users\user\source\repos\snake bite\snake bite\obj\Debug\snake bite.pdb
